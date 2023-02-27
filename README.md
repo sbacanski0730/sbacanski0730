@@ -1,8 +1,8 @@
 # Hi :wave:, I'm Szymon
 - :mailbox_with_mail: How to reach me: s.bacanski@gmail.com
-- 🌱 I am currently expanding my skills in Java-related technologies
+- :seedling: I am currently expanding my skills in Java-related technologies
 
-## Connect with me
+## ✉️ Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/szymon-bacanski)
 
 ## Languages and Technologies:
@@ -14,7 +14,7 @@
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
 
-## Tools:
+## 🛠️ Tools:
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
 [![IntallijIDEA](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/)
