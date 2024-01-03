@@ -21,10 +21,12 @@
 
 ## Projects and repos:
 
+<!--
 ### Current project:
   - :cricket: [password-generator](https://github.com/sbacanski0730/password-generator)
   It's project of my idea, design to realization.
   In this projekt I'm using ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) with **styled-components** for more for more comfortable styling.
+-->
 
 <!--
 **sbacanski0730/sbacanski0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
