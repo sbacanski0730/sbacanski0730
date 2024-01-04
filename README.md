@@ -7,6 +7,7 @@
 
 ## Languages and Technologies:
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
+[![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react&theme=light)](https://pl.reactjs.org/) 
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
