@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/szymon-bacanski)
 -->
 
+<!--
 ## Languages and Technologies:
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/pl/)
 [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/)
@@ -19,20 +20,24 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
 [![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://redis.io/)
 [![Postgres](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org.pl/)
+-->
 
-
+<!--
 ## 🛠️ Tools:
 [![IntallijIDEA](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
 [![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://code.visualstudio.com/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/)
 <!-- [![GitHubActions](https://skillicons.dev/icons?i=githubactions&theme=light)](https://github.com/) -->
+<!--
 [![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
+-->
 
 <!--
 ## Projects and repos:
 -->
+
 <!--
 ### Current project:
   - :cricket: [password-generator](https://github.com/sbacanski0730/password-generator)
